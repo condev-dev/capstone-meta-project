@@ -28,7 +28,7 @@ Focused on **WCAG accessibility**, **clean UX/UI**, and **production‑ready fro
 
 ## Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300AEEF?style=for-the-badge\&logo=appveyor\&logoColor=white)](https://condevtp.github.io/capstone-meta-project/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300AEEF?style=for-the-badge\&logo=appveyor\&logoColor=white)](https://capstone-meta-project-gilt.vercel.app/)
 
 ---
 
